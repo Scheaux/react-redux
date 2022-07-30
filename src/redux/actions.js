@@ -1,0 +1,7 @@
+export const CHANGE_ITEMS = 'CHANGE_ITEMS';
+export const REMOVE_ITEMS = 'REMOVE_ITEMS';
+export const EDIT_ITEM = 'EDIT_ITEM';
+export const CHANGE_FORM_NAME = 'CHANGE_FORM_NAME';
+export const CHANGE_FORM_PRICE = 'CHANGE_FORM_PRICE';
+export const CHANGE_FORM_ID = 'CHANGE_FORM_ID';
+export const CHANGE_FILTER = 'CHANGE_FILTER';
